@@ -1,0 +1,29 @@
+/* styles/Main.css */
+
+.container ol li {
+    font-size: 1.4em;
+    color: #cecece;
+}
+
+.welcome-message {
+    text-align: center;
+    font-size: 1.5rem;
+    color: #fff;
+    margin-bottom: 1rem;
+}
+
+.start {
+    display: flex;
+    justify-content: center;
+    padding-top: 2em;
+}
+
+.start .btn {
+    padding: .2em 1.7em;
+    border: none;
+    border-radius: .1em;
+    font-size: 1.2em;
+    color: #202020;
+    text-decoration: none;
+    background-color: #faff5a;
+}
